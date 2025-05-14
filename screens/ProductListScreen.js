@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     paddingTop: 40,
   },
   heading: {
-    fontSize: 26,
+    fontSize: 27,
     fontWeight: 'bold',
     color: Colors.primary,
     marginBottom: 20,
