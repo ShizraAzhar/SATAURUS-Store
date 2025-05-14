@@ -3,7 +3,7 @@ export default {
     secondary: '#16a085',    
     accent: '#f39c12',       
     backgroundTop: '#e0f7fa',   
-    backgroundBottom: '#ffffff', 
+    backgroundBottom: 'black', 
     text: '#34495e',
     white: '#fff',
   };
