@@ -15,7 +15,7 @@ export default function ProductDetailScreen({ route, navigation }) {
       <Text style={styles.price}>Price: ${product.price}</Text>
       <Text style={styles.description}>{product.description}</Text>
       <View style={{ marginTop: 20 }}>
-        <Button title=" Open Camera" color={Colors.primary} onPress={() => navigation.navigate('Camera')} />
+        <Button title="📷 Open Camera" color={Colors.primary} onPress={() => navigation.navigate('Camera')} />
       </View>
     </ScrollView>
   );
